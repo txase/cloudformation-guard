@@ -9,7 +9,7 @@ pub(crate) mod functions;
 mod libyaml;
 pub(crate) mod parser;
 pub(crate) mod path_value;
-pub(crate) mod values;
+pub mod values;
 
 use errors::Error;
 
